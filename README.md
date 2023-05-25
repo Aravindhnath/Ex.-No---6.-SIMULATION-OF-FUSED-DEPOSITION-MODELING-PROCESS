@@ -21,7 +21,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
-![Output](Output_lab6_EMPD)
+![Output](Output_lab6_EMPD.png)
 
 ### Name: Aravindhnath TR
 ### Register Number: 212222100005
